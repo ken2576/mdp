@@ -5,6 +5,7 @@ Official PyTorch Implementation of paper "Deep Multi Depth Panoramas for View Sy
 
 [Kai-En Lin](https://cseweb.ucsd.edu/~k2lin/)<sup>1</sup> 	[Zexiang Xu](https://cseweb.ucsd.edu/~zex014/)<sup>1,3</sup> 	[Ben Mildenhall](https://bmild.github.io/)<sup>2</sup> 	[Pratul P. Srinivasan](https://pratulsrinivasan.github.io/)<sup>2</sup>
 [Yannick Hold-Geoffroy](https://yannickhold.com/)<sup>3</sup> 	[Stephen DiVerdi](https://www.stephendiverdi.com/)<sup>3</sup> 	[Qi Sun](https://qisun.me/)<sup>3</sup> 	[Kalyan Sunkavalli](http://www.kalyans.org/)<sup>3</sup> 	[Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<sup>1</sup>
+
 <sup>1</sup>University of California, San Diego 	<sup>2</sup>University of California, Berkeley 	<sup>3</sup>Adobe Research
 
 ## Requirements
