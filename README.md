@@ -51,3 +51,7 @@ The 3x5 matrix is 3x4 `[R|t]` from camera extrinsics and last column is `(height
   booktitle={ECCV},
 }
 ```
+
+## Acknowledgements
+
+Parts of the code were adapted from StereoMag (https://github.com/google/stereo-magnification), LLFF (https://github.com/Fyusion/LLFF), LSI (https://github.com/google/layered-scene-inference)
